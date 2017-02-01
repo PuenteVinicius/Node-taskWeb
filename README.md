@@ -17,7 +17,7 @@
     2. Depois de startar o server com a api abra um outro terminal e utilize
     o seguinte código: npm-install
 
-    3. Acesse em seu navegador o seguinte endereço: 
+    3. Acesse em seu navegador o seguinte endereço: http://localhost:3001/
 
 # Repositório Original #
 https://github.com/caio-ribeiro-pereira/ntask-web.git
